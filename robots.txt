@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://saydum.github.io/rodipriroda-pages/sitemap.xml
